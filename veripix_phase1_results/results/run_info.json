@@ -1,0 +1,18 @@
+{
+  "torch": "2.11.0+cu130",
+  "gpu": "Tesla T4",
+  "params_million": 492.6,
+  "checkpoint": "ckpt/fatformer.pth",
+  "threshold": 0.5,
+  "eval_cap_per_class": 2000,
+  "generators": [
+    "biggan",
+    "cyclegan",
+    "deepfake",
+    "gaugan",
+    "progan",
+    "stargan",
+    "stylegan",
+    "stylegan2"
+  ]
+}

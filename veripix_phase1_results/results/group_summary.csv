@@ -1,0 +1,3 @@
+group,acc,precision,recall,f1,ap,auc,n_generators
+seen,99.9,100.0,99.8,99.9,100.0,100.0,1
+unseen GAN,98.2,99.3,97.1,98.1,99.7,99.5,7
