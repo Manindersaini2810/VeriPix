@@ -1,0 +1,9 @@
+generator,group,n_real,n_fake,total
+progan,seen,2000,2000,4000
+stylegan,unseen GAN,2000,2000,4000
+stylegan2,unseen GAN,2000,2000,4000
+biggan,unseen GAN,2000,2000,4000
+cyclegan,unseen GAN,1321,1321,2642
+stargan,unseen GAN,1999,1999,3998
+gaugan,unseen GAN,2000,2000,4000
+deepfake,unseen GAN,2000,2000,4000

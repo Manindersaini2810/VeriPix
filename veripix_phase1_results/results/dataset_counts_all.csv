@@ -1,0 +1,9 @@
+dataset,generator,group,n_real,n_fake,total,complete
+veripixtestset1,biggan,unseen GAN,2000,2000,4000,True
+veripixtestset1,cyclegan,unseen GAN,1321,1321,2642,True
+veripixtestset1,deepfake,unseen GAN,2707,2698,5405,True
+veripixtestset1,gaugan,unseen GAN,5000,5000,10000,True
+veripixtestset2,progan,seen,4000,4000,8000,True
+veripixtestset2,stargan,unseen GAN,1999,1999,3998,True
+veripixtestset2,stylegan,unseen GAN,5991,5991,11982,True
+veripixtestset2,stylegan2,unseen GAN,7988,7988,15976,True
